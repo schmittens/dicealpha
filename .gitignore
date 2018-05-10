@@ -1,0 +1,12 @@
+# Python specifics
+__pycache__
+*.py[cod]
+
+# Credential files
+creds.json
+
+# Virtual env
+nlu_env/
+
+# Mac OS
+*.DS_store

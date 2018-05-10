@@ -1,0 +1,13 @@
+[
+    {"literal": "bedroom", "value": "BR1"},
+    {"literal": "master bedroom", "value": "BR1"},
+    {"literal": "John's room", "value": "BR1"},
+    {"literal": "kitchen", "value": "K"},
+    {"literal": "living room", "value": "LR"},
+    {"literal": "living space", "value": "LR"},
+    {"literal": "lounge", "value": "LR"},
+    {"literal": "office", "value": "O"},
+    {"literal": "cubicle", "value": "O"},
+    {"literal": "workplace", "value": "O"},
+    {"literal": "study", "value": "O"}
+]
